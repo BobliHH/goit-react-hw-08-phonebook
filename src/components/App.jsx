@@ -2,7 +2,7 @@ import ContactForm from './ContactForm/ContactForm';
 import Filter from './Filter/Filter';
 import ContactList from './ContactList/ContactList';
 import './App.css';
-import AppBar from './AppBar';
+import AppBar from './AppBar/AppBar';
 const App = () => {
   return (
     <div className="Container">
